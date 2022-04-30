@@ -1,0 +1,16 @@
+{
+  "name": "desafio-alura",
+  "version": "1.0.0",
+  "description": "Projeto do Oracle One, baseado em um decodificador de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "js"
+  ],
+  "author": "Mayara Marques",
+  "license": "MIT"
+}
